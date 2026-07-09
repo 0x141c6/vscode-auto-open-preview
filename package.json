@@ -15,6 +15,7 @@
   "repository": {
     "url": "https://github.com/0x141c6/vscode-auto-open-preview"
   },
+  "publisher": "0x141c6",
   "main": "./dist/extension.js",
   "contributes": {
     "configuration": {
