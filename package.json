@@ -1,6 +1,6 @@
 {
-  "name": "auto-open-preview",
-  "displayName": "auto-open-preview",
+  "name": "auto-open-preview-panel",
+  "displayName": "Auto Open Preview",
   "description": "Run a predefined command when open some type of files. Default is .typ -> typst-preview.preview",
   "version": "0.0.1",
   "engines": {
