@@ -10,7 +10,7 @@
     "Other"
   ],
   "activationEvents": [
-    "onLanguage:*"
+    "onLanguage"
   ],
   "repository": {
     "url": "https://github.com/0x141c6/vscode-auto-open-preview"
